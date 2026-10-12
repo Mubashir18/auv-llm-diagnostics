@@ -1,0 +1,3 @@
+State: Normal operation (no anomaly)
+Typical signs: All thrusters are stable around the same RPM. Heading and depth are steady. Position error is small (about 1 to 2 meters). Packet loss is low (a few percent at most) and latency is about 100 to 300 milliseconds. Small random fluctuations are normal noise and are not anomalies.
+Recommended actions: no anomaly detected; continue the mission and keep monitoring.

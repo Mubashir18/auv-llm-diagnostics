@@ -1,0 +1,24 @@
+{
+  "id": "h014",
+  "window": {
+    "baseline": "t=0-9s",
+    "current": "t=50-59s"
+  },
+  "summary": "Thruster 4 RPM changed from 1484 to 1195 (-19%). Other thrusters are within normal range. Heading is steady. Depth is steady. Position error is stable (about 1.3 m). Communication shows no clear change (packet loss about 0.8%, latency about 145 ms).",
+  "facts": {
+    "thruster_rpm_change_pct": {
+      "t1": 0.5,
+      "t2": -1.1,
+      "t3": 0.1,
+      "t4": -19.5
+    },
+    "heading_change_deg": -1.5,
+    "depth_change_m": 0.43,
+    "pos_error_start_m": 1.33,
+    "pos_error_end_m": 1.26,
+    "packet_loss_start_pct": 1.6,
+    "packet_loss_end_pct": 0.8,
+    "latency_start_ms": 156,
+    "latency_end_ms": 145
+  }
+}

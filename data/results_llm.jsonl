@@ -1,0 +1,12 @@
+{"id": "s001", "pred": "none", "valid": true, "retried": false, "secs": 35.8, "raw": ""}
+{"id": "s002", "pred": "none", "valid": true, "retried": false, "secs": 39.6, "raw": ""}
+{"id": "s003", "pred": "none", "valid": true, "retried": false, "secs": 38.9, "raw": ""}
+{"id": "s016", "pred": "propulsion_failure", "valid": true, "retried": false, "secs": 46.2, "raw": ""}
+{"id": "s017", "pred": "propulsion_failure", "valid": true, "retried": false, "secs": 44.9, "raw": ""}
+{"id": "s018", "pred": "propulsion_failure", "valid": true, "retried": false, "secs": 46.5, "raw": ""}
+{"id": "s031", "pred": "navigation_drift", "valid": true, "retried": false, "secs": 37.8, "raw": ""}
+{"id": "s032", "pred": "navigation_drift", "valid": true, "retried": false, "secs": 36.8, "raw": ""}
+{"id": "s033", "pred": "navigation_drift", "valid": true, "retried": false, "secs": 37.5, "raw": ""}
+{"id": "s046", "pred": "communication_anomaly", "valid": true, "retried": false, "secs": 51.0, "raw": ""}
+{"id": "s047", "pred": "communication_anomaly", "valid": true, "retried": false, "secs": 46.2, "raw": ""}
+{"id": "s048", "pred": "communication_anomaly", "valid": true, "retried": false, "secs": 50.9, "raw": ""}

@@ -1,0 +1,4 @@
+Fault: Navigation drift (position estimation error)
+Typical signs: All thrusters are stable around the same RPM. Heading and depth are steady. Position error is small (about 1 to 3 meters) and not growing. Packet loss of a few percent (up to about 6 percent) and latency of about 100 to 350 milliseconds can be normal if they stay at that level. Only a clear rise over time is an anomaly. Small random fluctuations are normal noise and are not anomalies.
+
+Recommended actions: perform a position fix (surface GPS or acoustic transponder fix); recalibrate or reset the navigation filter; reduce reliance on dead reckoning; shorten the mission leg; check the DVL and INS sensors.

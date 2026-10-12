@@ -1,0 +1,24 @@
+{
+  "id": "t003",
+  "window": {
+    "baseline": "t=0-9s",
+    "current": "t=50-59s"
+  },
+  "summary": "All 4 thrusters are stable around 1507 RPM. Heading is steady. Depth is steady. Position error is stable (about 3.1 m). Communication shows no clear change (packet loss about 4.2%, latency about 337 ms).",
+  "facts": {
+    "thruster_rpm_change_pct": {
+      "t1": 0.9,
+      "t2": 1.8,
+      "t3": 0.5,
+      "t4": -0.3
+    },
+    "heading_change_deg": -0.3,
+    "depth_change_m": 0.0,
+    "pos_error_start_m": 3.16,
+    "pos_error_end_m": 3.08,
+    "packet_loss_start_pct": 4.9,
+    "packet_loss_end_pct": 4.2,
+    "latency_start_ms": 341,
+    "latency_end_ms": 337
+  }
+}

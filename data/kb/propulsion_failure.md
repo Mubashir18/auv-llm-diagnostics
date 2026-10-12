@@ -1,0 +1,4 @@
+Fault: Propulsion failure (thruster failure)
+Typical signs: One thruster's RPM drops sharply (by more than 30 to 50 percent) or goes to zero, while the other thrusters stay near normal RPM. Because thrust becomes unbalanced, the heading drifts steadily without any commanded turn. Depth may also change slowly. Position error and communication stay normal.
+How to tell it apart: the key sign is that exactly one thruster RPM changed a lot. If position error and communication are normal but a thruster RPM dropped, it is a propulsion failure.
+Recommended actions: reduce speed and switch to reduced-thrust mode; if heading cannot be held, abort the mission; return to surface or recovery point for inspection; check thruster power supply, motor controller and propeller blockage.

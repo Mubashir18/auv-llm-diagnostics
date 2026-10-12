@@ -1,0 +1,4 @@
+Fault: Communication anomaly (degraded acoustic link)
+Typical signs: Packet loss rises strongly (tens of percent) and latency rises to many hundreds of milliseconds or seconds. Thrusters, heading, depth and position error stay normal. Typical causes are multipath, ambient noise, long range between nodes or a node moving out of range.
+How to tell it apart: the key sign is high packet loss and latency with a healthy vehicle. This is a network problem, not a hardware fault of the vehicle.
+Recommended actions: move closer to the neighbor or relay node; reduce data rate or packet size; increase retransmission timeouts; switch to store-and-forward mode; do not abort the mission only because of this fault.
